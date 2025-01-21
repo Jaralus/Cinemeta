@@ -123,10 +123,14 @@
           ]
         },
         {
+          "name": "search"
+        },
+        {
           "name": "skip"
         }
       ],
       "extraSupported": [
+        "search",
         "genre",
         "skip"
       ],
@@ -188,10 +192,14 @@
           ]
         },
         {
+          "name": "search"
+        },
+        {
           "name": "skip"
         }
       ],
       "extraSupported": [
+        "search",
         "genre",
         "skip"
       ],
