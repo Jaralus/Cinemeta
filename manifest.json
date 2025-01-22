@@ -75,141 +75,8 @@
   "catalogs": [
     {
       "type": "movie",
-      "id": "top",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Animation",
-        "Biography",
-        "Comedy",
-        "Crime",
-        "Documentary",
-        "Drama",
-        "Family",
-        "Fantasy",
-        "History",
-        "Horror",
-        "Mystery",
-        "Romance",
-        "Sci-Fi",
-        "Sport",
-        "Thriller",
-        "War",
-        "Western"
-      ],
-      "extra": [
-        {
-          "name": "genre",
-          "options": [
-            "Action",
-            "Adventure",
-            "Animation",
-            "Biography",
-            "Comedy",
-            "Crime",
-            "Documentary",
-            "Drama",
-            "Family",
-            "Fantasy",
-            "History",
-            "Horror",
-            "Mystery",
-            "Romance",
-            "Sci-Fi",
-            "Sport",
-            "Thriller",
-            "War",
-            "Western"
-          ]
-        },
-        {
-          "name": "search"
-        },
-        {
-          "name": "skip"
-        }
-      ],
-      "extraSupported": [
-        "search",
-        "genre",
-        "skip"
-      ],
-      "name": "Popular"
-    },
-    {
-      "type": "series",
-      "id": "top",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Animation",
-        "Biography",
-        "Comedy",
-        "Crime",
-        "Documentary",
-        "Drama",
-        "Family",
-        "Fantasy",
-        "History",
-        "Horror",
-        "Mystery",
-        "Romance",
-        "Sci-Fi",
-        "Sport",
-        "Thriller",
-        "War",
-        "Western",
-        "Reality-TV",
-        "Talk-Show",
-        "Game-Show"
-      ],
-      "extra": [
-        {
-          "name": "genre",
-          "options": [
-            "Action",
-            "Adventure",
-            "Animation",
-            "Biography",
-            "Comedy",
-            "Crime",
-            "Documentary",
-            "Drama",
-            "Family",
-            "Fantasy",
-            "History",
-            "Horror",
-            "Mystery",
-            "Romance",
-            "Sci-Fi",
-            "Sport",
-            "Thriller",
-            "War",
-            "Western",
-            "Reality-TV",
-            "Talk-Show",
-            "Game-Show"
-          ]
-        },
-        {
-          "name": "search"
-        },
-        {
-          "name": "skip"
-        }
-      ],
-      "extraSupported": [
-        "search",
-        "genre",
-        "skip"
-      ],
-      "name": "Popular"
-    },
-    {
-      "type": "movie",
       "id": "year",
       "genres": [
-        "2025",
         "2024",
         "2023",
         "2022",
@@ -320,7 +187,6 @@
         {
           "name": "genre",
           "options": [
-            "2025",
             "2024",
             "2023",
             "2022",
@@ -446,7 +312,6 @@
       "type": "series",
       "id": "year",
       "genres": [
-        "2025",
         "2024",
         "2023",
         "2022",
@@ -517,7 +382,6 @@
         {
           "name": "genre",
           "options": [
-            "2025",
             "2024",
             "2023",
             "2022",
@@ -598,130 +462,6 @@
         "genre"
       ],
       "name": "New"
-    },
-    {
-      "type": "movie",
-      "id": "imdbRating",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Animation",
-        "Biography",
-        "Comedy",
-        "Crime",
-        "Documentary",
-        "Drama",
-        "Family",
-        "Fantasy",
-        "History",
-        "Horror",
-        "Mystery",
-        "Romance",
-        "Sci-Fi",
-        "Sport",
-        "Thriller",
-        "War",
-        "Western"
-      ],
-      "extra": [
-        {
-          "name": "genre",
-          "options": [
-            "Action",
-            "Adventure",
-            "Animation",
-            "Biography",
-            "Comedy",
-            "Crime",
-            "Documentary",
-            "Drama",
-            "Family",
-            "Fantasy",
-            "History",
-            "Horror",
-            "Mystery",
-            "Romance",
-            "Sci-Fi",
-            "Sport",
-            "Thriller",
-            "War",
-            "Western"
-          ]
-        },
-        {
-          "name": "skip"
-        }
-      ],
-      "extraSupported": [
-        "genre",
-        "skip"
-      ],
-      "name": "Featured"
-    },
-    {
-      "type": "series",
-      "id": "imdbRating",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Animation",
-        "Biography",
-        "Comedy",
-        "Crime",
-        "Documentary",
-        "Drama",
-        "Family",
-        "Fantasy",
-        "History",
-        "Horror",
-        "Mystery",
-        "Romance",
-        "Sci-Fi",
-        "Sport",
-        "Thriller",
-        "War",
-        "Western",
-        "Reality-TV",
-        "Talk-Show",
-        "Game-Show"
-      ],
-      "extra": [
-        {
-          "name": "genre",
-          "options": [
-            "Action",
-            "Adventure",
-            "Animation",
-            "Biography",
-            "Comedy",
-            "Crime",
-            "Documentary",
-            "Drama",
-            "Family",
-            "Fantasy",
-            "History",
-            "Horror",
-            "Mystery",
-            "Romance",
-            "Sci-Fi",
-            "Sport",
-            "Thriller",
-            "War",
-            "Western",
-            "Reality-TV",
-            "Talk-Show",
-            "Game-Show"
-          ]
-        },
-        {
-          "name": "skip"
-        }
-      ],
-      "extraSupported": [
-        "genre",
-        "skip"
-      ],
-      "name": "Featured"
     },
     {
       "type": "series",
