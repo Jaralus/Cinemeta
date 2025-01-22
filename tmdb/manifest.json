@@ -1,0 +1,52 @@
+{
+  "id": "tmdb-addon",
+  "version": "3.0.18",
+  "name": "The Movie Database Addon",
+  "contactEmail": null,
+  "description": "Metadata provided by TMDB.",
+  "logo": "https://github.com/mrcanelas/tmdb-addon/raw/main/images/logo.png",
+  "background": "https://github.com/mrcanelas/tmdb-addon/raw/main/images/background.png",
+  "types": [
+    "movie",
+    "series"
+  ],
+  "resources": [
+    "catalog",
+    "meta"
+  ],
+  "idPrefixes": [
+    "tmdb:",
+    "tt"
+  ],
+  "catalogs": [
+    {
+      "name": "Results",
+      "type": "movie",
+      "id": "tmdb.search",
+      "extra": [
+        {
+          "name": "search",
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "Results",
+      "type": "series",
+      "id": "tmdb.search",
+      "extra": [
+        {
+          "name": "search",
+          "isRequired": true
+        }
+      ]
+    }
+  ],
+  "addonCatalogs": [],
+  "behaviorHints": {
+    "adult": false,
+    "p2p": false,
+    "configurable": true,
+    "configurationRequired": false
+  }
+}
